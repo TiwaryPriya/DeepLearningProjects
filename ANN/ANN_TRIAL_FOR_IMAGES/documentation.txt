@@ -1,0 +1,2 @@
+This project was just to try model development using ANN for classifying images.
+Also to gain practical knowledge as to why CNN is best for classifying images.
