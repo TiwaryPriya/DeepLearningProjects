@@ -1,0 +1,1 @@
+Using CNN VGG16 developed a model that helps in predicting lung disease.
